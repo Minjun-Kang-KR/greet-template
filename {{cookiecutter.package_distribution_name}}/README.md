@@ -1,6 +1,6 @@
 # {{ cookiecutter.package_distribution_name }}
 
-{{ cookiecutter.package_description }}
+{{ cookiecutter.package_description }}.
 
 ## Installation
 
